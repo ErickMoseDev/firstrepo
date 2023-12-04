@@ -6,4 +6,4 @@ The steps we have followed include:
 - `git commit -m`
 - `git remote add origin`
 
-[] git push to github
+- [ ] git push to github
